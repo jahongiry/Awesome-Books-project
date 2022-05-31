@@ -1,7 +1,7 @@
 const registeredBooks = document.querySelector('.registered_books');
 const title = document.querySelector('.title_input');
 const author = document.querySelector('.author_input');
-export function displayBook(books) {
+const displayBook = (books) => {
   registeredBooks.innerHTML = '';
   for (let i = 0; i < books.length; i += 1) {
     registeredBooks.innerHTML += `
@@ -13,4 +13,5 @@ export function displayBook(books) {
     title.value = '';
     author.value = '';
   }
-}
+};
+export default displayBook;
