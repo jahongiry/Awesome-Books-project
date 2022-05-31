@@ -8,6 +8,7 @@ In this project, We set up a "AWESOME-BOOKS" repository.
 
 - HTML
 - Javascript
+- Js Modules
 
 ## Getting Started
 
@@ -19,7 +20,7 @@ or
 
 To get a local copy up and running follow these simple example steps.
 Clone the repo
-   git clone https://github.com/ABDULALI3468/AWESOME-BOOKS-PROJECT.git
+   git clone https://github.com/jahongiry/Awesome-Books-project.git
 
 ## Author
 
@@ -30,7 +31,7 @@ Clone the repo
 
 👤 ABDULALI3468
 
-- GitHub: [https://github.com/jahongiry](https://github.com/ABDULALI3468)
+- GitHub: [https://github.com/ABDULALI3468](https://github.com/ABDULALI3468)
 
 ## 🤝 Contributing
 
